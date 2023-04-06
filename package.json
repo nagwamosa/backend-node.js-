@@ -1,0 +1,30 @@
+{
+  "name": "busticket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon view ",
+    "prod": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-validator": "^6.15.0",
+    "json": "^11.0.0",
+    "middleware": "^1.0.0",
+    "mssql": "^9.0.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.22",
+    "parser": "^0.1.4",
+    "require": "^2.4.20",
+    "stop": "^3.1.0"
+  }
+}
